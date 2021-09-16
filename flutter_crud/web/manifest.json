@@ -1,6 +1,6 @@
 {
-    "name": "flutter_crud",
-    "short_name": "flutter_crud",
+    "name": "fluter_crud",
+    "short_name": "fluter_crud",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
